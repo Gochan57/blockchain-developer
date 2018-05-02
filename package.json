@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "1_1": "node ./week1/hash_and_sign/index.js",
+    "1_2": "node ./week1/signature/index.js",
+    "2_1": "node ./week2/simple_blockchain/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
